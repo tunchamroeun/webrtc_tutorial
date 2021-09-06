@@ -1,4 +1,4 @@
-package dev.flutterexplained.webrtc_tutorial
+package com.cloudwarekh.webrtc
 
 import io.flutter.embedding.android.FlutterActivity
 

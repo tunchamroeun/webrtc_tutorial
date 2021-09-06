@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665783116235",
+    "project_id": "webrtc-ab5a2",
+    "storage_bucket": "webrtc-ab5a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665783116235:android:093236539694bb58d2564e",
+        "android_client_info": {
+          "package_name": "com.cloudwarekh.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665783116235-a59kq3m9bqmtd68i6llba0h8574jd2i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudwarekh.webrtc",
+            "certificate_hash": "731bd21e854a5a930b35780510f211cc9b2b3c34"
+          }
+        },
+        {
+          "client_id": "665783116235-ioe8grq6uebs77sfdoe8a39bchhgrssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7-4ww_bWsguZ_rW_1JyXMIvvnhIEKm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665783116235-ioe8grq6uebs77sfdoe8a39bchhgrssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
